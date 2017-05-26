@@ -1,0 +1,12 @@
+
+/saves
+/saves/**/*
+/models
+/models/**/*
+/data
+/data/**/*
+/logs
+/logs/**/*
+/joshua_kurland.zip
+/*_test.py
+

@@ -1,0 +1,8 @@
+saves
+saves/**/*
+models
+models/**/*
+data
+data/**/*
+logs
+logs/**/*
