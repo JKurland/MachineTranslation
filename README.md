@@ -4,7 +4,7 @@ This project is a tensorflow implementation of a sequence to sequence (seq2seq) 
 
 ## Installation
 
-A docker image of this project is provided. The image contains two directories, logs/ and data/ . The logs directory is used to save model specific information, for example, saved parameters and tensorboard event files. The data directory is used for task specific information, for example, the data files used for the task.
+A docker image of this project is provided at docker hub (https://hub.docker.com/r/sockettang/trueai/). The image contains two directories, logs/ and data/ . The logs directory is used to save model specific information, for example, saved parameters and tensorboard event files. The data directory is used for task specific information, for example, the data files used for the task.
 
 To run the docker image use:
 
